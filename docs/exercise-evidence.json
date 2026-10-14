@@ -1,0 +1,48 @@
+{
+  "participant": "KokoaSkr1",
+  "status": "Steps 1, 2, and 3 passed. Step 4 has not been completed. This exercise has not been submitted to MLH as complete.",
+  "workflow_results": [
+    {
+      "workflow": "Step 1",
+      "conclusion": "success",
+      "created_at": "2026-10-14T17:54:07Z",
+      "updated_at": "2026-10-14T17:54:16Z",
+      "preserved_content_commit": "9d74a8c327dc2e5467fd76ba5314a3f1c276d8d7"
+    },
+    {
+      "workflow": "Step 0",
+      "conclusion": "success",
+      "created_at": "2026-10-14T17:54:07Z",
+      "updated_at": "2026-10-14T17:54:29Z",
+      "preserved_content_commit": "9d74a8c327dc2e5467fd76ba5314a3f1c276d8d7"
+    },
+    {
+      "workflow": "Step 1",
+      "conclusion": "success",
+      "created_at": "2026-10-14T17:57:59Z",
+      "updated_at": "2026-10-14T17:58:42Z",
+      "preserved_content_commit": "848fa2e3e07651534b17cd5d08c8a84a1d7a4799"
+    },
+    {
+      "workflow": "Step 2",
+      "conclusion": "success",
+      "created_at": "2026-10-14T18:01:51Z",
+      "updated_at": "2026-10-14T18:02:24Z",
+      "preserved_content_commit": "cf7e1a0e32a1182758496539a17c09fce5ed1c66"
+    },
+    {
+      "workflow": "Step 3",
+      "conclusion": "failure",
+      "created_at": "2026-10-14T18:12:46Z",
+      "updated_at": "2026-10-14T18:13:09Z",
+      "preserved_content_commit": "3eefb3d02ce715b86e887b40ffcec70e74d509eb"
+    },
+    {
+      "workflow": "Step 3",
+      "conclusion": "success",
+      "created_at": "2026-10-14T18:18:11Z",
+      "updated_at": "2026-10-14T18:18:42Z",
+      "preserved_content_commit": "b86d5000d82ffc86eeca1f799126998fa66a9895"
+    }
+  ]
+}
